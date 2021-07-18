@@ -1,5 +1,14 @@
-# Socket Server Basico
+# Colas de atención
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Un socket server en Node.js para la atención de colas.
 
-Temas cubiertos en mi curso de Node de cero a experto
+Administra:
+- Vista de escritorios de atención.
+- Panel para solicitar ticket de atención (sin impresión).
+- Pantalla pública donde se ve en qué escritorio se atiende a qué ticket.
+
+Utiliza [express] y [socket.io].
+
+Para inicializar el proyecto se debe ejecutar: ```npm i```.
+
+Saludoss.
